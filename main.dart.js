@@ -25887,7 +25887,7 @@ var $async$m_=P.a5(function(a,b){if(a===1){p=b
 t=q}while(true)switch(t){case 0:q=4
 P.cJ("pozvan sam")
 t=7
-return P.au(G.a9c("http://185.119.89.62:8080/book/home"),$async$m_)
+return P.au(G.a9c("https://cors-anywhere.herokuapp.com/http://185.119.89.62:8080/book/home"),$async$m_)
 case 7:m=b
 P.cJ(C.ab.dl(0,m.x))
 if(m.b===200){P.cJ("odgovor iz get ivenca"+C.ab.dl(0,m.x))
